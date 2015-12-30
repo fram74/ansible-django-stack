@@ -184,4 +184,4 @@ This will create and mount a 1GB swap.  Note that block size is 1024, so the siz
 - [Ansible - Getting Started](http://docs.ansible.com/intro_getting_started.html)
 - [Ansible - Best Practices](http://docs.ansible.com/playbooks_best_practices.html)
 - [Setting up Django with Nginx, Gunicorn, virtualenv, supervisor and PostgreSQL](http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/)
-- [How to deploy encrypted copies of your SSL keys and other files with Ansible and OpenSSL](http://www.calazan.com/how-to-deploy-encrypted-copies-of-your-ssl-keys-and-other-files-with-ansible-and-openssl/)
+- [How to deploy encrypted copies of your SSL keys and other files with Ansible and OpenSSL](http://www.calazan.com/how-to-deploy-encrypted-copies-of-your-ssl-keys-and-other-files-with-ansible-and-openssl/)# identity-povider
